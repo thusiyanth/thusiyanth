@@ -1,7 +1,8 @@
 
-
+![MasterHead](475eb095746151.5e9ecde695f7a.gif)
 <h1 align="center">Hi 👋, I'm Thusiyanth 😈</h1>
 <h3 align="center">A passionate Software Engineer !</h3>
+<img align="right" alt="Coding" width="400" src="giphy.gif">
 
 
 
