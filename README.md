@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud,Quantum Computing**
 
-- 👨‍💻 All of my Details are available at [thusiyanth.github.io](thusiyanth.github.io)
+- 👨‍💻 All of my Details are available at <a href ="https://thusiyanth.github.io/">thusiyanth.github.io</a>
 
 - 💬 Ask me about **Salesforce,Java,Data Science**
 
