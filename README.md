@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Salesforce,Java,Data Science**
 
-- 📫 How to reach me **thusiyanth02@gmail.com**
+- 📫 How to reach me **thusiyanth019@gmail.com**
 
 - ⚡ Fun fact **I think ! i am evil 😈**
 
